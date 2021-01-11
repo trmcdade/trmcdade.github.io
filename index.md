@@ -1,8 +1,3 @@
-<head>
-  <!-- {% raw %}{% seo %}{% endraw %} -->
-  {% seo %}
-</head>
-
 <p align="center">
   <a href="url"><img src="https://user-images.githubusercontent.com/45393549/104230721-eeab8380-541b-11eb-9c2f-0f43cae4c3a7.jpg" width="250" style="border-radius:50%"></a>
 </p>
