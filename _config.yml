@@ -26,9 +26,9 @@ sass:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sass-converter
+  # - jekyll-seo-tag
+  # - jekyll-feed
+  # - jekyll-sass-converter
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
