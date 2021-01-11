@@ -20,9 +20,9 @@ header_pages:
 
 layout: default
 
-# plugins:
-  # - jekyll-sitemap
-  # - jekyll-seo-tag
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
   # - jekyll-feed
   # - jekyll-sass-converter
 
