@@ -1,5 +1,9 @@
+{%feed_meta%}
+{%seo%}
+
 theme: minima
 title: Timothy R. McDade
+tagline: A Political Economist.
 author: Timothy R. McDade
 email: tim.mcdade@duke.edu
 
@@ -17,6 +21,17 @@ header_pages:
   - skills.md
   - cv.md
 
+sass:
+  sass_dir: assets/css/_sass
+  style: compressed
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sass-converter
+ 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
