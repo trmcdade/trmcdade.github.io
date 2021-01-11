@@ -20,12 +20,8 @@ header_pages:
 
 # layout: default
 
-sass:
-  sass_dir: assets/css/_sass
-  style: compressed
-
-plugins:
-  - jekyll-sitemap
+# plugins:
+  # - jekyll-sitemap
   # - jekyll-seo-tag
   # - jekyll-feed
   # - jekyll-sass-converter
