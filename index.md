@@ -3,3 +3,12 @@
 </p>
 
 Welcome! I am a computational political economist. I am currently a PhD student in Duke University's department of Political Science. My research employs quantitative and qualitative methods to analyze the connection between government financing, household economics, and political participation. I also study the relationship between international organizations and countries’ decision-making processes during conflicts. 
+
+## Interests
+- Political Economy
+- Financial Markets
+- International Trade
+- Quantitative Methods
+- Econometrics
+- International Institutions
+- Qualitative Methods
