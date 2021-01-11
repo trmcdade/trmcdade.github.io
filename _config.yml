@@ -1,17 +1,16 @@
 theme: minima
 title: Timothy R. McDade
-author: 
-  name: Timothy R. McDade
-  email: tim.mcdade@duke.edu
+author: Timothy R. McDade
+email: tim.mcdade@duke.edu
 
 show_excerpts: true
+
+# social_links: 
+twitter_username: trmcdade
+github_username: trmcdade
+linkedin_username: timothymcdade
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-
-  social_links: 
-    twitter: trmcdade
-    github: trmcdade
-    linkedin: timothymcdade
