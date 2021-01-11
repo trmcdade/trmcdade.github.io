@@ -18,6 +18,8 @@ header_pages:
   - skills.md
   - cv.md
 
+# layout: default
+
 sass:
   sass_dir: assets/css/_sass
   style: compressed
