@@ -1,4 +1,4 @@
-### Skills
+# Skills
 
 ## Technical skills: 
   - Python, R, SQL, GitHub, Stata, Matlab, LaTeX
