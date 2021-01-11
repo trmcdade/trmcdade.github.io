@@ -1,12 +1,4 @@
-### Welcome to GitHub Pages
-
-Welcome! I am a computational political economist. I am currently a PhD student in Duke University's department of Political Science. My research employs quantitative and qualitative methods to analyze
-
-the connection between government financing, household economics, and political participation. I also study the relationship between international organizations and countries’ decision-making processes during conflicts. 
-
-You can use the [editor on Github](https://github.com/trmcdade/trmcdade.github.io/new/master/index.md) to maintain and preview the content for your website in Markdown files. 
-
-Whenever you commit to this repository, Github Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
+Welcome! I am a computational political economist. I am currently a PhD student in Duke University's department of Political Science. My research employs quantitative and qualitative methods to analyze the connection between government financing, household economics, and political participation. I also study the relationship between international organizations and countries’ decision-making processes during conflicts. 
 
 ## Education
 
