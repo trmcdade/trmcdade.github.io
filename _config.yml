@@ -15,6 +15,7 @@ header_pages:
   - interests.md
   - professionalexperience.md
   - publications.md
+  - skills.md
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
