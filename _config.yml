@@ -18,7 +18,7 @@ header_pages:
   - skills.md
   - cv.md
 
-# layout: default
+layout: default
 
 # plugins:
   # - jekyll-sitemap
