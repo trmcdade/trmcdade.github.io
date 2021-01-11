@@ -1,6 +1,5 @@
-## Interests
+### Interests
 
-```markdown
 - Political Economy
 - Financial Markets
 - International Trade
@@ -8,4 +7,3 @@
 - Econometrics
 - International Institutions
 - Qualitative Methods
-```
