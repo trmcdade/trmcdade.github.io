@@ -1,3 +1,8 @@
+<head>
+  <!-- {% raw %}{% seo %}{% endraw %} -->
+  {% seo %}
+</head>
+
 theme: minima
 title: Timothy R. McDade
 tagline: A Political Economist.
@@ -18,7 +23,7 @@ header_pages:
   - skills.md
   - cv.md
 
-layout: default
+# layout: default
 
 plugins:
   - jekyll-sitemap
