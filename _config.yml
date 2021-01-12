@@ -11,10 +11,10 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-social_links:
-twitter_username: trmcdade
-github_username: trmcdade
-linkedin_username: timothymcdade
+# social_links:
+# twitter_username: trmcdade
+# github_username: trmcdade
+# linkedin_username: timothymcdade
 
 header_pages:
   - education.md
