@@ -17,6 +17,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # github_username: trmcdade
 # linkedin_username: timothymcdade
 
+google_analytics: G-EWMFHWFW20
+
 header_pages:
   - education.md
   - professionalexperience.md
