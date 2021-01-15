@@ -14,3 +14,7 @@ title: Skills
   - Project and people management.
   - Use evidence to advocate a position or strategy.
   - Construct evidence-based theories of change.
+
+### Languages:
+  - Mandarin Chinese (advanced)
+  - Spanish (advanced)
