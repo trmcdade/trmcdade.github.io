@@ -21,13 +21,13 @@ google_analytics: G-EWMFHWFW20
 
 og_image: /assets/images/portrait_web.jpg
 
-social:
-  type: Person
-  name: Timothy R. McDade
-  links:
-    - "https://twitter.com/trmcdade"
-    - "https://www.linkedin.com/in/timothymcdade"
-
+# social:
+#   type: Person
+#   name: Timothy R. McDade
+#   links:
+#     - "https://twitter.com/trmcdade"
+#     - "https://www.linkedin.com/in/timothymcdade"
+#
 
 header_pages:
   - education.md
