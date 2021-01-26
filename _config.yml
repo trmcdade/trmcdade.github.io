@@ -29,7 +29,8 @@ og_image: /assets/images/portrait_web.jpg
 #     - "https://www.linkedin.com/in/timothymcdade"
 #
 
-header_pages
+header_pages:
+  - bio.md
   - education.md
   - professionalexperience.md
   - publications.md
