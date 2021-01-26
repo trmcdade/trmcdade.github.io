@@ -30,7 +30,7 @@ og_image: /assets/images/portrait_web.jpg
 #
 
 header_pages
-  # - bio.md
+  - bio.md
   - education.md
   - professionalexperience.md
   - publications.md
