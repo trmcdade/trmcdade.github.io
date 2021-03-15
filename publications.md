@@ -4,11 +4,11 @@ title: Publications
 
 ### Articles
 
-Timothy R. McDade. What Can Insurance Tell Us About the Capitol Mob? *Foreign Policy*, January 21, 2021 (Link [here](https://foreignpolicy.com/2021/01/21/what-can-insurance-tell-us-about-the-capitol-mob/).)
+Timothy R. McDade. What Can Insurance Tell Us About the Capitol Mob? *Foreign Policy*, January 21, 2021 (link [here](https://foreignpolicy.com/2021/01/21/what-can-insurance-tell-us-about-the-capitol-mob/)).
 
 ### Working Papers
 
-  - Timothy R. McDade. Multilateral Constraints on Chinese Behavior in South China Sea Territorial Disputes. *Duke Global Working Paper Series* (19), March 2020. (Link [here](https://ssrn.com/abstract=3552183) or [here](http://dx.doi.org/10.2139/ssrn.3552183).)
+  - Timothy R. McDade. Multilateral Constraints on Chinese Behavior in South China Sea Territorial Disputes. *Duke Global Working Paper Series* (19), March 2020 (link [here](https://ssrn.com/abstract=3552183) or [here](http://dx.doi.org/10.2139/ssrn.3552183)).
   - Timothy R. McDade. Economic Determinants of Protest (2021).
   - Timothy R. McDade. Ownership Concentration of Government Bond Markets
   - Timothy R. McDade, Layna Mosley, and B Peter Rosendorff. Political Shocks and Sovereign Borrowing (2021)
