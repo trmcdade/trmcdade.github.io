@@ -51,7 +51,8 @@ plugins:
 
 minima:
   date_format: "%b %-d, %Y"
-  skin: solarized
+  # skin: solarized
+  skin: tim_custom
 
   # generate social links in footer
   social_links:

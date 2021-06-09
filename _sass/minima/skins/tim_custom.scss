@@ -1,14 +1,12 @@
 @charset "utf-8";
 
-// Solarized skin
+// Tim's Custom skin
 // ==============
-// Created by Sander Voerman <mailto:sander@savoerman.nl> using the Solarized
+// Created by Tim McDade <mailto:trmcdade@gmail.com> using the Solarized
 // color scheme by Ethan Schoonover <https://ethanschoonover.com/solarized>.
 
 // This style sheet implements two options for the minima.skin setting:
 // "solarized" for light mode and "solarized-dark" for dark mode.
-$sol-is-dark: false !default;
-
 
 // Color scheme
 // ------------
@@ -33,18 +31,9 @@ $sol-green:    #859900;  // 60 -20  65
 
 $sol-mono3:    $sol-base3;
 $sol-mono2:    $sol-base2;
-$sol-mono1:    $sol-base1;
+$sol-mono1:    $sol-magenta;
 $sol-mono00:   $sol-base00;
 $sol-mono01:   $sol-base01;
-
-@if $sol-is-dark {
-  $sol-mono3:  $sol-base03;
-  $sol-mono2:  $sol-base02;
-  $sol-mono1:  $sol-base01;
-  $sol-mono00: $sol-base0;
-  $sol-mono01: $sol-base1;
-}
-
 
 // Minima color variables
 // ----------------------
