@@ -1,6 +1,5 @@
 # Build settings
-# theme: minima
-theme: minima-mistakes-jekyll
+theme: minima
 url: "https://trmcdade.github.io/"
 title: Timothy R. McDade
 tagline: Tim McDade is a political economist.
