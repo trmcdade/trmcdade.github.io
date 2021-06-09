@@ -28,13 +28,16 @@ $sol-magenta:  #d33682;  // 50  65 -05
 $sol-violet:   #6c71c4;  // 50  15 -45
 $sol-blue:     #268bd2;  // 55 -10 -45
 $sol-cyan:     #2aa198;  // 60 -35 -05
-$sol-green:    #859900;  // 60 -20  65
+// $sol-green:    #859900;  // 60 -20  65
+$sol-green:    #004922;  // 00  73  34
+$sol-gold:    #e5d210;  // 229 210 16
 
-$sol-mono3:    $sol-base3;
+
+$sol-mono3:    $sol-gold;
 $sol-mono2:    $sol-base2;
-$sol-mono1:    $sol-magenta;
+$sol-mono1:    $sol-base1;
 $sol-mono00:   $sol-base00;
-$sol-mono01:   $sol-base01;
+$sol-mono01:   $sol-greens;
 
 // Minima color variables
 // ----------------------
