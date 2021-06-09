@@ -1,5 +1,6 @@
 # Build settings
-theme: minima
+# theme: minima
+theme: minima-mistakes-jekyll
 url: "https://trmcdade.github.io/"
 title: Timothy R. McDade
 tagline: Tim McDade is a political economist.
@@ -48,9 +49,12 @@ plugins:
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+
+minima_mistakes_skin: 'air'
+
 minima:
   date_format: "%b %-d, %Y"
-  skin: solarized
+  # skin: solarized
 
   # generate social links in footer
   social_links:
