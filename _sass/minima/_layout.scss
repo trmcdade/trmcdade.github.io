@@ -58,7 +58,8 @@
     //
 
     > svg path {
-      fill: $border-color-03;
+      // fill: $border-color-03;
+      fill: $site-title-color;
     }
   }
 
@@ -87,7 +88,7 @@
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
-    // I added these 
+    // I added these
     background-color: $brand-color;
     //
 
