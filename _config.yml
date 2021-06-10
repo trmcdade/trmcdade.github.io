@@ -51,10 +51,10 @@ plugins:
 
 minima:
   date_format: "%b %-d, %Y"
-  skin: classic
+  # skin: classic
   # skin: dark
   # skin: solarized
-  # skin: wm
+  skin: wm
   # skin: duke
 
   # generate social links in footer
