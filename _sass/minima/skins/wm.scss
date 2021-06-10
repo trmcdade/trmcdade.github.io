@@ -5,7 +5,8 @@ $brand-color:           #115740 !default; // WM Green
 $brand-color-light:     lighten($brand-color, 40%) !default;
 $brand-color-dark:      darken($brand-color, 25%) !default;
 
-$site-title-color:      $brand-color-dark !default;
+$site-title-color:      $brand-color !default;
+// $site-title-color:      $brand-color-dark !default;
 
 $text-color:            #111111 !default;
 $background-color:      #fdfdfd !default;
