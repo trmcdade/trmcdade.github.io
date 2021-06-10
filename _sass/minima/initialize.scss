@@ -42,10 +42,6 @@ $on-large:         $on-laptop !default;
   font-size: #{$ratio}rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
 // Import pre-styling-overrides hook and style-partials.
 @import
   "minima/custom-variables", // Hook to override predefined variables.
