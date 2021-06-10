@@ -34,7 +34,6 @@
 .site-nav {
   position: absolute;
   top: 9px;
-  color: $white;
   right: $spacing-unit / 2;
   background-color: $brand-color;
   // background-color: $background-color;
@@ -79,7 +78,8 @@
   }
 
   .page-link {
-    color: $text-color;
+    // color: $text-color;
+    color: $white;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
