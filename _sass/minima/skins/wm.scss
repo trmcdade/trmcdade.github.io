@@ -2,6 +2,8 @@
 
 // $brand-color:           #828282 !default;
 $brand-color:           #115740 !default; // WM Green
+$wm-gold:               #B9975B !default;
+$wm-gold-light:         lighten($wm-gold, 10%) !default;
 // $brand-color-light:     lighten($brand-color, 40%) !default;
 // $brand-color-dark:      darken($brand-color, 25%) !default;
 $brand-color-light:     lighten($brand-color, 10%) !default;
