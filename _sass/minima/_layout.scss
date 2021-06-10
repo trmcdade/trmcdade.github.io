@@ -35,8 +35,8 @@
   position: absolute;
   top: 9px;
   right: $spacing-unit / 2;
-  background-color: $background-color;
-  border: 1px solid $border-color-01;
+  background-color: $brand-color;
+  border: 1px solid $site-title-color;
   border-radius: 5px;
   text-align: right;
 
@@ -53,7 +53,7 @@
     text-align: center;
     // I added these two
     background-color: $brand-color;
-    border: 1px solid $border-color-01;
+    border: 1px solid $site-title-color;
     //
 
     > svg path {
@@ -88,7 +88,7 @@
     padding: 5px 10px;
     // I added these two
     background-color: $brand-color;
-    border: 1px solid $border-color-01;
+    border: 1px solid $site-title-color;
     //
 
     // Gaps between nav items, but not on the last one
