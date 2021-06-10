@@ -14,6 +14,6 @@ I am a PhD Candidate in Duke University's department of Political Science studyi
 - Quantitative Methods
 - Econometrics
 - US and Chinese Foreign Policy
-<!-- - International Trade
-- International Institutions
-- Qualitative Methods -->
+<!-- - International Trade -->
+<!-- - International Institutions -->
+<!-- - Qualitative Methods -->
