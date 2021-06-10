@@ -51,7 +51,8 @@ plugins:
 
 minima:
   date_format: "%b %-d, %Y"
-  skin: solarized
+  skin: classic
+  # skin: solarized
   # skin: wm
   # skin: duke
 
