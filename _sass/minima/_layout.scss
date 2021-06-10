@@ -35,8 +35,8 @@
   position: absolute;
   top: 9px;
   right: $spacing-unit / 2;
-  background-color: $brand-color;
-  // background-color: $background-color;
+  // background-color: $brand-color;
+  background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
@@ -79,7 +79,7 @@
 
   .page-link {
     // color: $text-color;
-    color: $white;
+    color: $site-title-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
