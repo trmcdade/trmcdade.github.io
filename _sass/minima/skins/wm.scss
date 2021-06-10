@@ -1,6 +1,7 @@
 @charset "utf-8";
 
 // $brand-color:           #828282 !default;
+$white:                 #fdfdfd !default;
 $brand-color:           #115740 !default; // WM Green
 $wm-gold:               #B9975B !default;
 $wm-gold-light:         lighten($wm-gold, 10%) !default;
@@ -9,7 +10,7 @@ $wm-gold-light:         lighten($wm-gold, 10%) !default;
 $brand-color-light:     lighten($brand-color, 10%) !default;
 $brand-color-dark:      darken($brand-color, 10%) !default;
 
-$site-title-color:      $brand-color !default;
+$site-title-color:      $white !default;
 // $site-title-color:      $brand-color-dark !default;
 
 $text-color:            #111111 !default;
