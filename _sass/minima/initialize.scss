@@ -49,4 +49,8 @@ $on-large:         $on-laptop !default;
   "minima/base",             // Defines element resets.
   "minima/layout",           // Defines structure and style based on CSS selectors.
   "minima/custom-styles"     // Hook to override existing styles.
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 ;
