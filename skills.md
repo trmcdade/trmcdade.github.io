@@ -17,4 +17,4 @@ title: Skills
 
 ### Languages:
   - Mandarin Chinese (advanced)
-  - Spanish (advanced)
+  - Spanish (advanced reading, intermediate speaking)
