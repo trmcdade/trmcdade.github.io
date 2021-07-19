@@ -4,7 +4,7 @@ title: Skills
 ---
 
 ### Technical skills:
-  - Python, R, SQL, GitHub, Stata, Matlab, LaTeX
+  - Python, R, SQL, GitHub, Stata, Matlab, LaTeX, Microsoft Office
   - Quantitative analysis, advanced regression and statistics, forecasting, machine learning, factor analysis, natural language processing, data management
 
 ### Business skills:
