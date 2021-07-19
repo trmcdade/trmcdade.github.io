@@ -12,22 +12,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# social_links:
-# twitter_username: trmcdade
-# github_username: trmcdade
-# linkedin_username: timothymcdade
-
 google_analytics: G-EWMFHWFW20
 
 og_image: /assets/images/portrait_web.jpg
-
-# social:
-#   type: Person
-#   name: Timothy R. McDade
-#   links:
-#     - "https://twitter.com/trmcdade"
-#     - "https://www.linkedin.com/in/timothymcdade"
-#
 
 header_pages:
   - bio.md
@@ -89,8 +76,3 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
