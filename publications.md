@@ -11,9 +11,9 @@ title: Publications
 
 ### Working Papers
 
-  - Timothy R. McDade. Dissertation, Part I: Economic Insurance and Protest Mobilization (2021).
-  - Timothy R. McDade. Dissertation, Part II: The Effect of Ownership Concentration on Government Bond Yields (2021).
-  - Timothy R. McDade. Dissertation, Part III: China's Financial Market Statecraft (2021).
+  - Timothy R. McDade. Dissertation, Part I: Household Economic Insurance and Protest Mobilization (2022).
+  - Timothy R. McDade. Dissertation, Part II: The Effect of Ownership Concentration on Government Bond Yields (2022).
+  - Timothy R. McDade. Dissertation, Part III: China's Foreign Investment: Hedging Against Policy Uncertainty (2022).
   - Timothy R. McDade. Multilateral Constraints on Chinese Behavior in South China Sea Territorial Disputes. *Duke Global Working Paper Series* (19), March 2020 (link [here](https://ssrn.com/abstract=3552183) or [here](http://dx.doi.org/10.2139/ssrn.3552183)).
   - Timothy R. McDade, Layna Mosley, and B Peter Rosendorff. Political Shocks and Sovereign Borrowing (2021).
   - Timothy R. McDade,  Mateo Villamizar Chaparro, Molly Jacobs, and Michelle Corea. The Effect of COVID-19 and Economic Stimulus on Food Security (2021).
