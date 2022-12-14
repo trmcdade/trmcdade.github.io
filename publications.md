@@ -4,6 +4,8 @@ title: Publications
 
 ### Articles
 
+  - Timothy R. McDade,  Mateo Villamizar Chaparro, Molly Jacobs, and Michelle Corea. The Effect of COVID-19 and Economic Stimulus on Food Security. *Journal of Racial and Ethnic Health Disparities*, 2022. (link <a href="assets/papers/Jacobs_et_al_Food_Security_and_Covid_2022.pdf">here</a>.)
+
   - Timothy R. McDade. What Can Insurance Tell Us About the Capitol Mob? *Foreign Policy*, January 21, 2021 (link [here](https://foreignpolicy.com/2021/01/21/what-can-insurance-tell-us-about-the-capitol-mob/)).
 
   - Timothy R. McDade. Who's Surprised by GameStop? Not Me! *Duke University*, February 4, 2021 (link [here](https://medium.com/dukeuniversity/whos-surprised-by-gamestop-not-me-741bbc1d92cf)).
