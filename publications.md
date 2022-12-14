@@ -15,8 +15,8 @@ title: Publications
 
   - Timothy R. McDade. Dissertation: Economic Channels for Influence Over Governments (2022). (link <a href="assets/papers/McDade Economic Channels for Influence Over Goverments 2022.pdf">here</a>.)
     - Part I: Household Economic Insurance and Protest Mobilization (2022) (standalone link <a href="assets/papers/McDade_Econ_and_Protests_20220406.pdf">here</a>).
-    - Dissertation, Part II: The Effect of Ownership Concentration on Government Bond Yields (2022) (standalone link <a href="assets/papers/McDade_Bonds_20220409.pdf">here</a>).
-    - Dissertation, Part III: China's Foreign Investment: Hedging Against Policy Uncertainty (2022) (standalone link <a href="assets/papers/McDade_RAI_20220406.pdf">here</a>).
+    - Part II: The Effect of Ownership Concentration on Government Bond Yields (2022) (standalone link <a href="assets/papers/McDade_Bonds_20220409.pdf">here</a>).
+    - Part III: China's Foreign Investment: Hedging Against Policy Uncertainty (2022) (standalone link <a href="assets/papers/McDade_RAI_20220406.pdf">here</a>).
   - Timothy R. McDade. Multilateral Constraints on Chinese Behavior in South China Sea Territorial Disputes. *Duke Global Working Paper Series* (19), March 2020 (link <a href="assets/papers/McDade_Multilateral_Constraints_on_China_SCS_20200312.pdf">here</a>.)
   <!-- (link [here](https://ssrn.com/abstract=3552183) or [here](http://dx.doi.org/10.2139/ssrn.3552183)). -->
   - Timothy R. McDade, Layna Mosley, and B Peter Rosendorff. Political Shocks and Sovereign Borrowing (2021).
