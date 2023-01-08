@@ -13,7 +13,7 @@ title: Publications
 
 ### Working Papers
 
-  - Timothy R. McDade. Dissertation: Economic Channels for Influence Over Governments (2022). (link <a href="assets/papers/McDade Economic Channels for Influence Over Goverments 2022.pdf">here</a>.)
+  - Timothy R. McDade. Dissertation: Economic Channels for Influence Over Governments (2022). (link <a href="assets/papers/McDade_Economic_Channels_for_Influence_Over_Goverments_2022.pdf">here</a>.)
     - Part I: Household Economic Insurance and Protest Mobilization (2022) (standalone link <a href="assets/papers/McDade_Econ_and_Protests_20220406.pdf">here</a>).
     - Part II: The Effect of Ownership Concentration on Government Bond Yields (2022) (standalone link <a href="assets/papers/McDade_Bonds_20220409.pdf">here</a>).
     - Part III: China's Foreign Investment: Hedging Against Policy Uncertainty (2022) (standalone link <a href="assets/papers/McDade_RAI_20220406.pdf">here</a>).
