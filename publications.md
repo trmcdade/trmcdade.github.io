@@ -30,4 +30,4 @@ title: Publications
 
   <!-- - Timothy R. McDade. What Can Insurance Tell Us About the Capitol Mob? *Foreign Policy*, January 21, 2021 (link [here](https://foreignpolicy.com/2021/01/21/what-can-insurance-tell-us-about-the-capitol-mob/)). -->
 
-  - McDade, T.R. Who's Surprised by GameStop? Not Me! *Duke University*, February 4, 2021 (link [here](https://medium.com/dukeuniversity/whos-surprised-by-gamestop-not-me-741bbc1d92cf)).
+  - McDade, T.R. (February 4, 2021). Who's Surprised by GameStop? Not Me! *Duke University.* (link [here](https://medium.com/dukeuniversity/whos-surprised-by-gamestop-not-me-741bbc1d92cf)).
