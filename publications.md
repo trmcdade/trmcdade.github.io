@@ -6,6 +6,10 @@ title: Publications
 
   - Jacobs, M., McDade, T.R., Villamizar Chaparro, M., and Corea, M. (2023). The Effect of COVID-19 and Economic Stimulus on Food Security. *Journal of Racial and Ethnic Health Disparities., 10*(6), 2685-2703. (Link <a href="assets/papers/Jacobs_et_al_Food_Security_and_Covid_2022.pdf">here</a>.)
 
+### Professional Publications
+
+  - Boivin, J., Brazier, A., Fawcett, N., Fisher. P.R., Li, W., McDade, T.R., and Nikolic, F. (2024). Decoding Demographic Dynamics. *BlackRock Investment Institute*. (Link <a href="assets/papers/BII_Decoding_Demographic_Divergence_March_2022.pdf">here</a>.) -->
+
 ### Working Papers
 
   - McDade, T.R. and Scholtz, K. (2024). Demographics, capital efficiency, and the labor share of income. *Working Paper.*
@@ -21,10 +25,6 @@ title: Publications
   - McDade, T.R. (2020). On Survey Experiments. *Working Paper.* (link <a href="assets/papers/McDade_Survey_Experiments_20200608.pdf">here</a>.)
   - McDade, T.R. (2020). Firm Responses to Shocks: Reallocation of Capital Contingent Upon Property Rights. *Working Paper.* (Link <a href="assets/papers/McDade_Firm_Capital_Reallocation_and_Property_Rights_20200430.pdf">here</a>.)
   - McDade, T.R. (2012). Analysis and Simulation of an Optimal Control Model of an Oyster Population Displaying an Allee Effect. *Undergraduate Honors Theses, William & Mary,* (499). (Link <a href="assets/papers/McDade_Optimal_Control_Oyster_Population_2012.pdf">here</a>.)
-
-<!-- ### Professional Publications -->
-
-  <!-- - McDade, T.R., Fisher. P.R., Brazier, A., and Fawcett, N. (2024). Decoding Demographic Dynamics. *BlackRock Investment Institute*. (Link <a href="">here</a>.) -->
 
 ### Other Publications
 
