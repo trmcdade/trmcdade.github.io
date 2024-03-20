@@ -8,7 +8,7 @@ title: Publications
 
 ### Professional Publications
 
-  - Boivin, J., Brazier, A., Fawcett, N., Fisher. P.R., Li, W., McDade, T.R., and Nikolic, F. (2024). Decoding Demographic Dynamics. *BlackRock Investment Institute*. (Link <a href="assets/papers/BII_Decoding_Demographic_Divergence_March_2022.pdf">here</a>.) -->
+  - Boivin, J., Brazier, A., Fawcett, N., Fisher. P.R., Li, W., McDade, T.R., and Nikolic, F. (2024). Decoding Demographic Dynamics. *BlackRock Investment Institute*. (Link <a href="assets/papers/BII_Decoding_Demographic_Divergence_March_2024.pdf">here</a>.) -->
 
 ### Working Papers
 
