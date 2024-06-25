@@ -13,7 +13,7 @@ title: Publications
 ### Working Papers
 
   <!-- - Chinchilla, R., Rueter, D., McDade, T. R., Fisher, P. R., and Boyd, S. (2024). Longevity Solutions Project: A Whitepaper. *BlackRock AI Labs Working Paper*. -->
-  - McDade, T.R. and Scholtz, K. (2024). Demographics, Capital Efficiency, and the Labor Share of Income. *Working Paper.*
+  - McDade, T.R. and Scholtz, K. (2024). Demographics, Capital Efficiency, and the Labor Share of Income. *Working Paper.* (Link <a href="assets/papers/McDade_Scholtz_Demographics_Capital_Efficiency_Labor_Share_20240521.pdf">here</a>.)
   - McDade, T.R. (2023). Structural Demographic Drivers of Unit Labor Cost. *Working Paper.* (Link <a href="assets/papers/McDade_Structural_Demographic_Drivers_of_Unit_Labor_Cost_20240417.pdf">here</a>.)
   - McDade, T.R. (2022). Dissertation: Economic Channels for Influence Over Governments. *ProQuest.* (Link <a href="assets/papers/McDade_Economic_Channels_for_Influence_Over_Goverments_2022.pdf">here</a>.)
     - Part I: Household Economic Insurance and Protest Mobilization. (Standalone link <a href="assets/papers/McDade_Econ_and_Protests_20220406.pdf">here</a>.)
