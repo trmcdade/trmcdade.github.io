@@ -12,7 +12,7 @@ title: Publications
 
 ### Working Papers
 
-  <!-- - Chinchilla, R., Rueter, D., McDade, T. R., Fisher, P. R., and Boyd, S. (2024). Longevity Solutions Project: A Whitepaper. *BlackRock AI Labs Working Paper*. -->
+  <!-- - Chinchilla, R., Rueter, D., McDade, T. R., Fisher, P. R., Kochenderfer, M., Cand\`es, E., Hastie, T., and Boyd, S. (2024). Longevity Solutions Project: A Whitepaper. *BlackRock AI Labs Working Paper*. -->
   - McDade, T.R. (2024). China's Foreign Investments: Hedges Against Policy Uncertainty. *Williamsburg, VA: AidData at William & Mary.* (Link <a href="assets/papers/McDade_WPS132_Chinas_Foreign_Investments_Hedges_Against_Policy_Uncertainty_20241020.pdf">here</a>.)
   - McDade, T.R. and Scholtz, K. (2024). Demographics, Capital Efficiency, and the Labor Share of Income. *Working Paper.* (Link <a href="assets/papers/McDade_Scholtz_Demographics_Capital_Efficiency_Labor_Share_20240905.pdf">here</a>.)
   - McDade, T.R. (2023). Structural Demographic Drivers of Unit Labor Cost. *Working Paper.* (Link <a href="assets/papers/McDade_Structural_Demographic_Drivers_of_Unit_Labor_Cost_20240417.pdf">here</a>.)
