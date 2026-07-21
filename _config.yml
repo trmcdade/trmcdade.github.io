@@ -2,13 +2,13 @@
 theme: minima
 url: "https://trmcdade.github.io/"
 title: Timothy R. McDade
-tagline: Tim McDade is a political economist.
-author:
-  name: Timothy R. McDade
-  email: trmcdade@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Quantitative political economist with experience in the
-  US and Chinese tech and finance industries.
+# tagline: Tim McDade is a political economist.
+# author:
+#   name: Timothy R. McDade
+#   email: trmcdade@gmail.com
+# description: > # this means to ignore newlines until "show_excerpts:"
+#   Quantitative political economist with experience in the
+#   US and Chinese tech and finance industries.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
