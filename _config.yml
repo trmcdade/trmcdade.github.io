@@ -12,18 +12,18 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-google_analytics: G-EWMFHWFW20
+# google_analytics: G-EWMFHWFW20
 
 og_image: /assets/images/portrait_web.jpg
 
-header_pages:
-  - bio.md
+header_pages: []
+  # - bio.md
   # - education.md
   # - professionalexperience.md
-  - publications.md
-  - skills.md
-  - cv.md
-  - github.md
+  # - publications.md
+  # - skills.md
+  # - cv.md
+  # - github.md
 
 # layout: default
 
@@ -46,14 +46,17 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: trmcdade
-    github:  trmcdade
+    # twitter: trmcdade
+    # github:  trmcdade
+
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: timothymcdade
+
+    # linkedin: timothymcdade
+
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
