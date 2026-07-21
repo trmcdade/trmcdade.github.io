@@ -10,7 +10,7 @@ layout: home
 
 <!-- title: Timothy R. McDade -->
 
-description: This site is no longer maintained.
+This site is no longer maintained.
 
 <!-- <p align="center">
   <a href="url"><img src= "/assets/images/portrait_web.jpg" width="250" style="border-radius:50%"></a>
