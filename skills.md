@@ -1,6 +1,7 @@
 ---
 <!-- layout: default -->
 title: Skills
+published: false
 ---
 
 ### Technical skills:
