@@ -14,7 +14,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 # google_analytics: G-EWMFHWFW20
 
-og_image: /assets/images/portrait_web.jpg
+# og_image: /assets/images/portrait_web.jpg
 
 header_pages: []
   # - bio.md

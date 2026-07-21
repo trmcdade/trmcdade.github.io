@@ -1,12 +1,12 @@
-<!-- ---
-layout: home
---- -->
-
 ---
 layout: page
 title: Timothy R. McDade
 permalink: /
 ---
+
+<!-- ---
+layout: home
+--- -->
 
 title: Timothy R. McDade
 
